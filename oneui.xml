@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <!-- ONEUI -->
+
+    <!-- Main Repos -->
+
+  <project path="build" name="OneUI/build" groups="pdk,tradefed" revision="oneui-n" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <project path="frameworks/base" name="OneUI/frameworks_base" groups="pdk-cw-fs,pdk-fs" revision="oneui-n" />
+  <project path="OneUI_Manifest" name="OneUI/Manifest_OneUI" revision="oneui-n" />
+  <project path="vendor/OneUI" name="OneUI/vendor_OneUI" revision="oneui-n" />
+  
+  <!-- Packages -->
+
+  <project path="packages/apps/CMParts" name="OneUI/packages_apps_CMParts" revision="oneui-n" />
+  <project path="packages/apps/OneUIWallpapers" name="OneUI/packages_apps_OneUIWallpapers" groups="pdk-fs" revision="oneui-n" />
+  <project path="packages/apps/OneUISetupWizard" name="OneUI/packages_apps_OneUISetupWizard" groups="pdk-fs" revision="oneui-n" />
+  <project path="packages/apps/Settings" name="OneUI/packages_apps_Settings" groups="pdk-fs" revision="oneui-n" />
+  
+<!-- ONEUI -->
+ 
+</manifest>
