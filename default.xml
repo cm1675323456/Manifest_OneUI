@@ -12,6 +12,10 @@
            fetch="https://github.com/One-UI"
            revision="oneui-n" />
 		   
+  <remote  name="OneUI-Devices"
+           fetch="https://github.com/OneUI-Devices"
+           revision="oneui-n" />
+		   
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
