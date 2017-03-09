@@ -3,6 +3,7 @@
 
   <!-- LineageOS additions -->
   <project path="external/bash" name="LineageOS/android_external_bash" />
+  <project path="external/busybox" name="LineageOS/android_external_busybox" />
   <project path="external/cmsdk-api-coverage" name="LineageOS/android_external_cmsdk-api-coverage" />
   <project path="external/exfat" name="LineageOS/android_external_exfat" />
   <project path="external/ffmpeg" name="LineageOS/android_external_ffmpeg" />
@@ -22,6 +23,7 @@
   <project path="external/pigz" name="LineageOS/android_external_pigz" />
   <project path="external/rsync" name="LineageOS/android_external_rsync" />
   <project path="external/stagefright-plugins" name="LineageOS/android_external_stagefright-plugins" />
+  <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" />
   <project path="external/uicommon" name="LineageOS/android_external_cyanogen_UICommon" />
   <project path="external/unrar" name="LineageOS/android_external_unrar" />
   <project path="external/unzip" name="LineageOS/android_external_unzip" />
