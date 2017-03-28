@@ -15,6 +15,7 @@
   <!-- Packages -->
 
   <project path="packages/apps/CMParts" name="One-UI/packages_apps_CMParts" revision="oneui-n" />
+  <project path="packages/apps/Music" name="One-UI/packages_apps_Music" revision="oneui-n" />
   <project path="packages/apps/OneUIWallpapers" name="One-UI/packages_apps_OneUIWallpapers" groups="pdk-fs" revision="oneui-n" />
   <project path="packages/apps/OneUISetupWizard" name="One-UI/packages_apps_OneUISetupWizard" groups="pdk-fs" revision="oneui-n" />
   <project path="packages/apps/Settings" name="One-UI/packages_apps_Settings" groups="pdk-fs" revision="oneui-n" />
