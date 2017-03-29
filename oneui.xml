@@ -8,7 +8,7 @@
   <project path="build" name="One-UI/build" groups="pdk,tradefed" revision="oneui-n" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="frameworks/base" name="One-UI/frameworks_base" groups="pdk-cw-fs,pdk-fs" revision="oneui-n" />
+  <project path="frameworks/base" name="LineageOS/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" revision="cm-14.1" />
   <project path="OneUI_Manifest" name="One-UI/Manifest_OneUI" revision="oneui-n" />
   <project path="vendor/OneUI" name="One-UI/vendor_OneUI" revision="oneui-n" />
   
